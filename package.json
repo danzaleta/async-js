@@ -1,0 +1,27 @@
+{
+  "name": "async_js",
+  "version": "1.0.0",
+  "description": "Async practical JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danzaleta/async-js.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Daniel Zaleta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danzaleta/async-js/issues"
+  },
+  "homepage": "https://github.com/danzaleta/async-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
