@@ -4,7 +4,9 @@
   "description": "Async practical JS",
   "main": "src/index.js",
   "scripts": {
-    "callback": "node src/index.js"
+    "index": "node src/index.js",
+    "api-callback": "node src/api-callback.js",
+    "api-promise": "node src/api-promise.js"
   },
   "repository": {
     "type": "git",
