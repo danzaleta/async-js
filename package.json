@@ -6,7 +6,8 @@
   "scripts": {
     "index": "node src/index.js",
     "api-callback": "node src/api-callback.js",
-    "api-promise": "node src/api-promise.js"
+    "api-promise": "node src/api-promise.js",
+    "api-async-await": "node src/api-asyncAwait.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,7 @@
     "promise",
     "async"
   ],
-  "author": "Daniel Zaleta",
+  "author": "Daniel Zaleta <zaletadaniel@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/danzaleta/async-js/issues"
