@@ -1,7 +1,7 @@
 let XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
 let API = 'https://rickandmortyapi.com/api/character/';
 
-console.log(`//* Consulting Rick & Morty's API ~CALLBACKS~ *//
+console.log(`//* Consulting Rick & Morty's API with ~CALLBACKS~ *//
 `);
 
 function fetchData(url_api, callback) {
